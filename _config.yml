@@ -1,6 +1,6 @@
 # Site settings
 title: Vim China
-email: vimchina[AT]126.com
+email: vimchina
 description: Happy Vimming!
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://vimchina.github.io" # the base hostname & protocol for your site
